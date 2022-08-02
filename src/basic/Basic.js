@@ -5,7 +5,6 @@ import { MDBDropdown, MDBDropdownMenu, MDBDropdownToggle, MDBDropdownItem, MDBDr
 export default function Basic() {
   return (
     <MDBContainer className="d-flex justify-content-center mt-5 basic">
-
       <MDBDropdown>
         <MDBDropdownToggle>Dropdown button</MDBDropdownToggle>
         <MDBDropdownMenu>
@@ -46,6 +45,5 @@ export default function Basic() {
         </MDBDropdownMenu>
       </MDBDropdown>
     </MDBContainer>
-
   );
 }

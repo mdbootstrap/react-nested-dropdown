@@ -7,7 +7,6 @@ export default function Hover() {
 
   return (
     <MDBContainer className="d-flex justify-content-center mt-5 basic">
-
       <MDBDropdown isOpen={dropdownActive}>
         <MDBDropdownToggle 
           onMouseEnter={() => setDropdownActive(true)} 
@@ -53,6 +52,5 @@ export default function Hover() {
         </MDBDropdownMenu>
       </MDBDropdown>
     </MDBContainer>
-
   );
 }
