@@ -1,6 +1,6 @@
 {
   "name": "@mdbootstrap/react-nested-dropdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nested dropdowns built with React Bootstrap 5. Tutorial & templates for multilevel navbar dropdowns menu, activated on hover or on click & much more",
   "dependencies": {
     "mdb-react-ui-kit": "^4.0.0",
