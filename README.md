@@ -4,7 +4,7 @@ Check out [React Profiles Documentation](https://mdbootstrap.com/docs/react/exte
 
 ## Basic example
 
-![React Nested Dropdown](./assets/basic.png)
+![React Nested Dropdown](/assets/basic.png)
 
 ```js
 import React from 'react';
@@ -89,13 +89,13 @@ export default function Basic() {
 ## More examples
 
 [React Nested Dropdown navbar:
-![React Nested Dropdown](./assets/right.png)](https://mdbootstrap.com/docs/react/extended/dropdown-multilevel/#section-navbar-dropdown)
+![React Nested Dropdown](/assets/right.png)](https://mdbootstrap.com/docs/react/extended/dropdown-multilevel/#section-navbar-dropdown)
 
 [React Nested Dropdown navbar left:
-![React Nested Dropdown](./assets/left.png)](https://mdbootstrap.com/docs/react/extended/dropdown-multilevel/#section-navbar-dropdown-left)
+![React Nested Dropdown](/assets/left.png)](https://mdbootstrap.com/docs/react/extended/dropdown-multilevel/#section-navbar-dropdown-left)
 
 [React Nested Dropdown on hover:
-![React Nested Dropdown](./assets/hover.png)](https://mdbootstrap.com/docs/react/extended/dropdown-multilevel/#section-button-dropdown-on-hover)
+![React Nested Dropdown](/assets/hover.png)](https://mdbootstrap.com/docs/react/extended/dropdown-multilevel/#section-button-dropdown-on-hover)
 
 ___
 
